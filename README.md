@@ -30,15 +30,27 @@
 
 
 
-如果在ios下，打开应用时，提示未受信任的企业级开发者，查看 http://www.uileader.com/touchui_doc/quickstart/iosPublish/trust
+
 
 ##### web访问：
 
  <img src="http://images.uileader.com/20180116/b2a766df-64ee-4549-8fd1-67ce62c5f618.png" />
 
+<a href="http://static.uileader.com/touchui_jdfinance/index.html" target="_blank">http://static.uileader.com/touchui_jdfinance/index.html</a>
+
+在PC端打开时请开启chrome的手机浏览模式。
+
+
+
 ##### ios下载：
 
  <img src="http://images.uileader.com/20180114/ab779caa-155f-44ba-ac68-783b83c81a64.png" />
+
+如果在ios下，打开应用时，提示未受信任的企业级开发者，查看 http://www.uileader.com/touchui_doc/quickstart/iosPublish/trust
+
+
+
+
 
 ##### 安卓下载：
 
@@ -46,7 +58,9 @@
 
 
 
-实际效果截图：
+
+
+##### 实际效果截图：
 
  <img src="http://images.uileader.com/20180114/8bfc65e9-ac20-4b13-9601-c346b483e92e.png" />
 

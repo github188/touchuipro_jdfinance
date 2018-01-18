@@ -162,6 +162,8 @@ export default {
     code(){
       ui.setStatusBarStyle({ style: 'light' })
       ui.scanCode({
+        backgroundColor:"#000",
+        color:"#fff",
         success: (res) => {
           console.log(res)
           ui.showToast({ title: '扫到了' + res.result+',开心不～' })
