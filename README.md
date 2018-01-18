@@ -46,7 +46,8 @@
 
  <img src="http://images.uileader.com/20180114/ab779caa-155f-44ba-ac68-783b83c81a64.png" />
 
-如果在ios下，打开应用时，提示未受信任的企业级开发者，查看 http://www.uileader.com/touchui_doc/quickstart/iosPublish/trust
+如果在ios下，打开应用时，提示未受信任的企业级开发者，查看 
+<a href="http://www.uileader.com/touchui_doc/quickstart/iosPublish/trust" target="_blank">http://www.uileader.com/touchui_doc/quickstart/iosPublish/trust</a>
 
 
 
