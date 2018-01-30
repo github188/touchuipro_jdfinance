@@ -212,21 +212,21 @@
 
     <!-- 启动页面 -->
     <ui-fixed-view top="0" left="0" class="splash_wrap" ui:if="{{ isSplashSwiper }}" >
-      <ui-swiper pagination bindinit="swiperInit" class="splash_swiper">
-        <ui-swiper-item>
+      <ui-mini-swiper pagination fullscreen class="splash_swiper">
+        <ui-mini-swiper-item>
           <ui-view class="splash_swiper_content splash_swiper01"></ui-view>
-        </ui-swiper-item>
-        <ui-swiper-item>
+        </ui-mini-swiper-item>
+        <ui-mini-swiper-item>
           <ui-view class="splash_swiper_content splash_swiper02"></ui-view>
-        </ui-swiper-item>
-        <ui-swiper-item>
+        </ui-mini-swiper-item>
+        <ui-mini-swiper-item>
           <ui-view class="splash_swiper_content splash_swiper03"></ui-view>
-        </ui-swiper-item>
-        <ui-swiper-item>
+        </ui-mini-swiper-item>
+        <ui-mini-swiper-item>
           <ui-view class="splash_swiper_content splash_swiper04"></ui-view>
           <ui-view class="splash_into" bindtap="splashInto">立即体验</ui-view>
-        </ui-swiper-item>
-      </ui-swiper>
+        </ui-mini-swiper-item>
+      </ui-mini-swiper>
     </ui-fixed-view>
 
     <!-- 引导页 -->

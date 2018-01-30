@@ -210,9 +210,6 @@ export default {
       }, closeTime)
 
     },
-    swiperInit() {
-      this.hideSplash()
-    },
     login(){
       import(`#/pages/dialogs/loginInterface.ui`).then((content) => {
         ui.showDialog({
@@ -232,6 +229,6 @@ export default {
     }
   },
   mounted () {
-    
+    this.hideSplash()
   }
 }
