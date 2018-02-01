@@ -34,7 +34,7 @@
 
 ##### web访问：
 
- <img src="http://images.uileader.com/20180116/b2a766df-64ee-4549-8fd1-67ce62c5f618.png" />
+ <img src="http://images.uileader.com/20180201/ff525c1a-39c0-4396-a38c-2989c0ad1db8.png" />
 
 <a href="http://static.uileader.com/touchui_jdfinance/index.html" target="_blank">http://static.uileader.com/touchui_jdfinance/index.html</a>
 
@@ -44,7 +44,7 @@
 
 ##### ios下载：
 
- <img src="http://images.uileader.com/20180114/ab779caa-155f-44ba-ac68-783b83c81a64.png" />
+ <img src="http://images.uileader.com/20180201/ce744e5c-d85d-495f-bced-936a6fc1a5b7.png" />
 
 如果在ios下，打开应用时，提示未受信任的企业级开发者，查看 
 <a href="http://www.uileader.com/touchui_doc/quickstart/iosPublish/trust" target="_blank">http://www.uileader.com/touchui_doc/quickstart/iosPublish/trust</a>
