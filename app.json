@@ -6,6 +6,7 @@
     "pages/funds/fundChoiceness/fundChoiceness",
     "pages/funds/fundRank/fundRank",
     "pages/funds/fundOptional/fundOptional",
+    "pages/funds/fundOptional/optional",
     "pages/funds/fundHold/fundHold",
     "pages/manage/greenHand/greenHand",
     "pages/manage/allProducts/allProducts",

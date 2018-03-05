@@ -6,10 +6,14 @@ let options = {
   app: App
 }
 
-ui.start(options)
-ui.preloadDialogs([
-  require('#/pages/dialogs/loginInterface.ui')
-])
+
+
 
 ui.networkTimeout = 5
 ui.networkBaseUrl = ''
+
+ui.start(options)
+
+ui.preloadDialogs([
+  require('#/pages/dialogs/loginInterface.ui')
+])
